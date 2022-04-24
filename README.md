@@ -1,16 +1,17 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/1F1p6zXsYyt8I/giphy.gif" width="100"/>
+</div>
 
-<!--
-**Cosmo121/Cosmo121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div id="badgets" align="center">
+  <a href="https://www.linkedin.com/in/mhartman121/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge">
+  </a>
+  <a href="https://thepc.co">
+    <img src="https://img.shields.io/badge/Website-thepc.co-brightgreen?logo=googlechrome&logoColor=white&style=for-the-badge">
+  </a>
+</div>
 
-Here are some ideas to get you started:
+---
+I'm a systems engineer currently working at [Avidxchange][Avidxchange]. Currently working a mix of technology infrastructure and teammate technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Avidxchange]:https://avidxchange.com
