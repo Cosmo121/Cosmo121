@@ -12,6 +12,19 @@
 </div>
 
 ---
-I'm a systems engineer currently working at [Avidxchange][Avidxchange]. Currently working a mix of technology infrastructure and teammate technology.
+I'm a systems engineer working at [Avidxchange][Avidxchange]. Currently dabbling in a mix of technology infrastructure and teammate technology.
 
 [Avidxchange]:https://avidxchange.com
+
+---
+<div id="stuffIKnow" align="center">
+  <img src="https://img.shields.io/badge/VMware-critical?logo=vmware">
+  <img src="https://img.shields.io/badge/PowerShell-critical?logo=powershell">
+  <img src="https://img.shields.io/badge/Veeam-critical?logo=veeam">
+  <img src="https://img.shields.io/badge/Citrix-critical?logo=citrix">
+  <img src="https://img.shields.io/badge/Windows-critical?logo=windows">
+  <img src="https://img.shields.io/badge/Exchange-critical?logo=microsoft exchange">
+  <img src="https://img.shields.io/badge/Office 365-critical?logo=microsoft office">
+  <img src="https://img.shields.io/badge/Azure-critical?logo=microsoft azure">
+  
+</div>
