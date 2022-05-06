@@ -12,7 +12,7 @@
 </div>
 
 ---
-I'm a systems engineer working at [Avidxchange][Avidxchange]. Currently dabbling in a mix of technology infrastructure and teammate technology.
+I'm a systems engineer working at [Avidxchange][Avidxchange]. Currently dabbling in a mix of technology infrastructure and modern work solutions.
 
 [Avidxchange]:https://avidxchange.com
 
