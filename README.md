@@ -12,9 +12,12 @@
 </div>
 
 ---
-I'm a systems engineer working at [Avidxchange][Avidxchange]. Currently dabbling in a mix of technology infrastructure and modern work solutions.
+I'm a systems engineer working at [Avidxchange][avidxchangeURL]. Currently dabbling in a mix of technology infrastructure and modern work solutions. Feel free to take a gander at my personal [blog][blogURL] and my [LinkedIn][linkedinURL].
 
-[Avidxchange]:https://avidxchange.com
+[avidxchangeURL]:https://avidxchange.com
+[blogURL]:https://thepc.co/
+[linkedinurl]:https://www.linkedin.com/in/mhartman121/
+
 
 ---
 <div id="stuffIKnow" align="center">
