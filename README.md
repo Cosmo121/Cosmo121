@@ -12,7 +12,7 @@
 </div>
 
 ---
-I'm a systems engineer working at [Avidxchange][avidxchangeURL]. Currently dabbling in a mix of technology infrastructure and modern work solutions. Feel free to take a gander at my personal [blog][blogURL] and my [LinkedIn][linkedinURL].
+I'm a systems engineer who likes to dabble in a mix of technology infrastructure and modern work solutions. Feel free to take a gander at my personal [blog][blogURL] and my [LinkedIn][linkedinURL].
 
 [avidxchangeURL]:https://avidxchange.com
 [blogURL]:https://thepc.co/
