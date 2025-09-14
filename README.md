@@ -21,13 +21,9 @@ I'm a systems engineer who likes to dabble in a mix of technology infrastructure
 
 ---
 <div id="stuffIKnow" align="center">
-  <img src="https://img.shields.io/badge/VMware-critical?logo=vmware">
-  <img src="https://img.shields.io/badge/PowerShell-critical?logo=powershell">
-  <img src="https://img.shields.io/badge/Veeam-critical?logo=veeam">
-  <img src="https://img.shields.io/badge/Citrix-critical?logo=citrix">
-  <img src="https://img.shields.io/badge/Windows-critical?logo=windows">
-  <img src="https://img.shields.io/badge/Exchange-critical?logo=microsoft exchange">
-  <img src="https://img.shields.io/badge/Office 365-critical?logo=microsoft office">
-  <img src="https://img.shields.io/badge/Azure-critical?logo=microsoft azure">
+  <img src="https://img.shields.io/badge/PowerShell-blue">
+  <img src="https://img.shields.io/badge/Veeam-green">
+  <img src="https://img.shields.io/badge/Windows-Server-blue">
+  <img src="https://img.shields.io/badge/Microsoft-Azure-blue">
   
 </div>
